@@ -1,0 +1,2 @@
+../Src/Libraries/ECHO.c:7:6:FPU_Enable	4	static
+../Src/Libraries/ECHO.c:14:6:ApplyEcho	32	static

@@ -1,0 +1,2 @@
+../Src/Application/DATA.c:5:6:ReadDataFromFlash	3
+../Src/Application/DATA.c:23:6:WriteDataToFlash	3

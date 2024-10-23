@@ -1,0 +1,5 @@
+../Src/Drivers/UART.c:11:5:__io_putchar	1
+../Src/Drivers/UART.c:17:6:UART2_Init	1
+../Src/Drivers/UART.c:42:6:UART2_Write	2
+../Src/Drivers/UART.c:51:17:Compute_UART_Baud	1
+../Src/Drivers/UART.c:56:13:UART2_SetBaudRate	1
